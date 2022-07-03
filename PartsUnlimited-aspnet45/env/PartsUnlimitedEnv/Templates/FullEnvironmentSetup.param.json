@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": null
+      "value": "Rishikannawebapp01"
     },
     "PUL_ServerName": {
-      "value": null
+      "value": "Rishikannasql01"
     },
     "PUL_DBLogin": {
       "value": "AdminUser"
@@ -27,7 +27,7 @@
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": null
+      "value": "Rishikanna01"
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
